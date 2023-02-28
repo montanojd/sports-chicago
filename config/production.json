@@ -58,14 +58,14 @@
     "app": {
       "title": "News Blog",
       "language": "en",
-      "baseUrl": "/darktemplate/",
+      "baseUrl": "/news-blog/",
       "resourcePath": "/news-blog/app/",
       "libraryPath": {
         "@lib": "{{ app.baseUrl }}lib/1.1/",
         "@hgui": "https://genielabs.github.io/homegenie-web-ui/app/",
         "@cdnjs": "https://cdnjs.cloudflare.com/ajax/libs/"
       },
-      "siteMapUrl": "https://montanojd.github.io/darktemplate/"
+      "siteMapUrl": "https://montanojd.github.io/news-blog/"
     }
   }
 }
